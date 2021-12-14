@@ -1,4 +1,4 @@
-package com.inmoglass.appModule;
+package com.inmoglass.horizonscrollview;
 
 import android.os.Bundle;
 
