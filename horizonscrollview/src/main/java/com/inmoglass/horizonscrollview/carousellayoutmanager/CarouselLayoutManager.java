@@ -501,6 +501,7 @@ public class CarouselLayoutManager extends RecyclerView.LayoutManager implements
 
             view.setScaleX(transformation.mScaleX);
             view.setScaleY(transformation.mScaleY);
+            view.setAlpha(transformation.mAlpha);
         }
     }
 
